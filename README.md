@@ -1,1 +1,5 @@
-# DEhomework
+**total_revenue(purchases):** Рассчитайте и верните общую выручку (цена * количество для всех записей).
+**items_by_category(purchases):** Верните словарь, где ключ — категория, а значение — список уникальных товаров в этой категории.
+**expensive_purchases(purchases, min_price):** Выведите все покупки, где цена товара больше или равна min_price.
+**average_price_by_category(purchases):** Рассчитайте среднюю цену товаров по каждой категории.
+**most_frequent_category(purchases):** Найдите и верните категорию, в которой куплено больше всего единиц товаров (учитывайте поле quantity).
